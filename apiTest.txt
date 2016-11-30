@@ -1,0 +1,2 @@
+/User/Login?account=18932473843&password=123456
+/User/Login?account=13249792789&password=123456&inviteCode=mymy
